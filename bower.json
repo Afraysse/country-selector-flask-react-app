@@ -1,0 +1,21 @@
+{
+  "name": "flask_test",
+  "description": "a simple flask-react app",
+  "main": "",
+  "authors": [
+    "afraysse"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.1.0"
+  }
+}
